@@ -29,7 +29,7 @@ section {
     margin: 10px 0 0 10px;
     float: left;
     width: 40%;
-    height: 350px;
+    height: 250px;
 }
 
 aside {
@@ -37,7 +37,7 @@ aside {
     margin: 10px ;
     float: left;
     width: 40%;
-    height: 350px;
+    height: 250px;
     padding-right: 20px;
     margin-right: 10px;
     margin-bottom: 20px;
@@ -46,7 +46,7 @@ aside {
 
 
 footer {
-    padding: 26px;
+    padding: 36px;
     margin: 10px;
     width: 100%;
     clear: both;
@@ -58,16 +58,16 @@ article {
     color: white;
     padding: 30px;
     width: 80%;
+    border-color: #777
 }
 
 div {
         background-color: #ebebeb;
         padding: 15px;
-        margin: 5px;
+        margin: 10px;
         width: 100%;
         border-style: solid;
         color: #777;
-        border-color: white;
     }
 
     #h1 {
@@ -79,4 +79,5 @@ div {
         padding: 26px;
         width: 100%;
         margin-top: 10px;
+        margin-left: 10px;
     }
