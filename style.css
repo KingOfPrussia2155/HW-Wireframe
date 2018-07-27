@@ -4,6 +4,7 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    margin: 40px;
 }
 
 .box {color: gray;
@@ -68,6 +69,7 @@ div {
         width: 100%;
         border-style: solid;
         color: #777;
+        box-sizing: border-box;
     }
 
     #h1 {
